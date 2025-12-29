@@ -8,7 +8,7 @@ Environment Setup
 Clone this repository and install the necessary dependencies:
 ```bash
 git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-cd YourRepoName
+cd model-card.md
 pip install -r requirements.txt
 ```
 
