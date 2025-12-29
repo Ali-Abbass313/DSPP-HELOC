@@ -7,7 +7,7 @@ To ensure the results are consistent with the reported metrics, please follow th
 Environment Setup
 Clone this repository and install the necessary dependencies:
 ```bash
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+git clone [https://github.com/Ali-Abbass313/DSPP-HELOC.git](https://github.com/Ali-Abbass313/DSPP-HELOC.git))
 cd model-card.md
 pip install -r requirements.txt
 ```
