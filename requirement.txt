@@ -1,5 +1,6 @@
 # Computational Environment
-jupyter>=1.0.0 in Wondows 11
+jupyter>=1.0.0 in Wondows 
+
 # Core Data Processing
 pandas>=2.0.0
 numpy>=1.24.0
@@ -13,3 +14,6 @@ scikit-learn>=1.3.0
 
 # Numerical Utilities
 scipy>=1.10.0
+
+# Interpretability & Evaluation
+shap>=0.40.0
