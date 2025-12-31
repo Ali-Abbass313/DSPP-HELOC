@@ -1,0 +1,15 @@
+# Computational Environment
+jupyter>=1.0.0 in Wondows 11
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Machine Learning Framework (includes LogisticRegression, RandomForest, Pipeline)
+scikit-learn>=1.3.0
+
+# Numerical Utilities
+scipy>=1.10.0
